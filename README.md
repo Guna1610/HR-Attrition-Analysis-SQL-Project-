@@ -22,14 +22,14 @@ The HR department is concerned about employee attrition. The goal of this projec
 
 ## 📂 Repository Structure
 
-HR Attrition SQL Project/
-│
-├── python_version/
-│   └── HR_Attrition_Analysis.ipynb
-├── data/ # dataset
-├── queries/ # SQL scripts
-├── results/ # screenshots/visuals
-└── README.md # project summary
+- HR Attrition SQL Project/
+  │
+  ├── python_version/
+  │   └── HR_Attrition_Analysis.ipynb
+  ├── data/ # dataset
+  ├── queries/ # SQL scripts
+  ├── results/ # screenshots/visuals
+  └── README.md # project summary
 
 
 ## 📌 Business Impact
